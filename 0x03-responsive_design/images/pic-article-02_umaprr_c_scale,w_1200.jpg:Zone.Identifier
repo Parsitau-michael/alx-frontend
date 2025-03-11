@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://www.responsivebreakpoints.com/
+HostUrl=https://api.cloudinary.com/v1_1/responsivebreakpoints/image/generate_archive?api_key=219944828214243&mode=download&public_ids[]=pic-article-02_umaprr&signature=de8c21ee5b5c0656e74537edf953ca592dd1483d&target_format=zip&timestamp=1741693594&transformations=c_scale%2Cw_1200%7Cc_scale%2Cw_876%7Cc_scale%2Cw_380

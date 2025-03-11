@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://www.responsivebreakpoints.com/
+HostUrl=https://api.cloudinary.com/v1_1/responsivebreakpoints/image/generate_archive?api_key=219944828214243&mode=download&public_ids[]=pic-about-01_dysgaj&signature=33553de12f5768e7ef19054ba1ee663ec6c03d16&target_format=zip&timestamp=1741692814&transformations=c_scale%2Cw_1200%7Cc_scale%2Cw_953%7Cc_scale%2Cw_380
